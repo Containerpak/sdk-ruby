@@ -4,7 +4,7 @@
   "name": "Ruby SDK",
   "description": "Ruby interpreter, headers, RubyGems and Bundler.",
   "version": "3.3",
-  "image": "ghcr.io/containerpak/sdk-ruby@sha256:c31206828faac388955065475c63a5326bd7a5778b88faf270a0b40dafba95e2",
+  "image": "ghcr.io/containerpak/sdk-ruby@sha256:07f32bc50610534293305183a531dd4829bdca9750c750e38841dbb432d63d82",
   "binaries": [
     "/usr/bin/ruby",
     "/usr/bin/gem",
